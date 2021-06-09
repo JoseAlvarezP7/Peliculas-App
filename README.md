@@ -1,6 +1,6 @@
 # Aplicacion de peliculas
 
-Aplicacion donde se peude ver las peliculas que se encuentran en estreno asi como las populares ontenidos de 'api.themoviedb.org'
+Aplicacion donde se peude ver las peliculas que se encuentran en estreno asi como las populares. Se esta usando como API lo siguiente 'api.themoviedb.org'
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
